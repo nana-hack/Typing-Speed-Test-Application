@@ -1,0 +1,17 @@
+{
+    "easy": [
+        "The quick brown fox jumps over the lazy dog.",
+        "A simple sentence for beginners to type.",
+        "Learning to type can be fun and easy."
+    ],
+    "medium": [
+        "The quick brown fox jumps over the lazy dog while the cat sleeps peacefully nearby.",
+        "Programming is the art of telling another human what one wants the computer to do.",
+        "Practice makes perfect when it comes to improving your typing speed and accuracy."
+    ],
+    "hard": [
+        "The quick brown fox jumps over the lazy dog, while the agile cat prowls stealthily in the moonlit garden, searching for midnight adventures.",
+        "In computer programming, proper documentation and clear variable naming conventions are essential for maintaining readable and maintainable code.",
+        "The complexity of modern software development requires developers to constantly learn and adapt to new technologies and methodologies."
+    ]
+}

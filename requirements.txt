@@ -1,0 +1,16 @@
+# Project dependencies
+windows-curses==2.4.0
+tkinter  # Usually comes with Python installation
+pygame==2.5.2  # For sound effects
+ttkthemes==3.2.2  # For better UI themes
+pillow==10.2.0  # For image handling
+
+# This project uses the following modules:
+# - curses (provided by windows-curses on Windows)
+# - time (standard library)
+# - random (standard library)
+# - tkinter (standard library, for GUI version)
+# - json (standard library)
+# - pygame (for sound effects)
+# - ttkthemes (for modern themes)
+# - pillow (for image processing)
